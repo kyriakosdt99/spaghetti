@@ -5,8 +5,8 @@ Spaghetti is an exec based obfuscation tool for python code.
 
 ## Features
 - Removes comments and unnecessary whitespace.
-- Encrypts code using XOR operations.
-- Obfuscates integer constants using Z3 solver.
+- Obfuscates integers using XOR operations.
+- Obfuscates integers using inline if else statements created with Z3.
 
 ## Installation
 To use, intall tqdm and z3-solver
