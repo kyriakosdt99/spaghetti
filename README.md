@@ -1,7 +1,7 @@
 # Spaghetti
 
 ## Overview
-Spaghetti is a Python exec based obfuscation tool.
+Spaghetti is an exec based obfuscation tool for python code.
 
 ## Features
 - Removes comments and unnecessary whitespace.
