@@ -1,7 +1,7 @@
 # Spaghetti
 
 ## Overview
-Spaghetti is a Python eval xor based obfuscation tool.
+Spaghetti is a Python exec based obfuscation tool.
 
 ## Features
 - Removes comments and unnecessary whitespace.
